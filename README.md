@@ -46,7 +46,7 @@ El proyecto incluye las siguientes clases:
 ## Instrucciones paea clonar y ejecutar el proyecto
 1. Clonar el repositorio desde GitHub.
 ```bash
-Git clone [enlace_del_repositorio_aquí]
+Git clone [https://github.com/monicafigueroaduoc/SistemaSalmontt.git]
 ```
 2. Abre el proyecto en IntelliJ IDEA.
 3.  Ejecutar la clase org.example.app.Main.
